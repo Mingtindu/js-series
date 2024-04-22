@@ -14,3 +14,8 @@ numberArr.unshift(5);//add the value at the beginning of the array:
 
 
 console.log(numberArr);
+
+//slice and splice 
+
+//slice does not change the value of the original array :
+//splice does change the value of the original array:
